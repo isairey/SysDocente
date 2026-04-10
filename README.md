@@ -1,7 +1,7 @@
 # 🎓 Sistema de Evaluación Docente
 
 <p align="center">
-  <img width="900" src="https://via.placeholder.com/1200x300.png?text=Sistema+de+Evaluacion+Docente" alt="Evaluación Docente Banner"/>
+ 
 </p>
 
 <p align="center">
